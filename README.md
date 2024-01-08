@@ -7,7 +7,7 @@ See [here](syllabus.md) for more details
 
 ## Problem Sets and Exams
 
-1. **Due Midnight PST on January 14th** - [Problem Set 0](/problem_sets/problem_set_0.pdf). This is a pass/fail problem set (i.e., hand it in you pass!)
+1. **Due Midnight PST on January 21st** - [Problem Set 0](/problem_sets/problem_set_0.pdf). This is a pass/fail problem set (i.e., hand it in you pass!)
 2. **Due Midnight PST on TBD** - Problem Set 1 <!-- [Problem Set 1](/problem_sets/problem_set_1.pdf) -->
 3. **Due Midnight PST on TBD** - Problem Set 2 <!-- [Problem Set 2](/problem_sets/problem_set_2.pdf) -->
 4. **Reviewing February 12th** - Midterm Practice Problems  <!--[Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf) -->
@@ -20,14 +20,15 @@ See [here](syllabus.md) for more details
 
 ## Lectures
 1. **January 8th** - [Introduction to Modern Macro](/lectures/intro_to_modern_macro.pdf) and start [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf)
-2. **January 10th** - [Math Review](/lectures/math_review.pdf) including all necessary material on matrix algebra and probability
+2. **January 10th** - [Math Review/Linear Algebra](/lectures/math_review.pdf) and continue [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf)
+   - We will use some basic matrix algebra/etc. in this course repeatedly, but will cover everything required in class 
 3. **January 15th** - TBD <!-- Finish [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf) and start [Permanent Income Model](/lectures/permanent_income.pdf) -->
 4. **January 17th** - TBD <!-- [Permanent Income Model](/lectures/permanent_income.pdf) -->
 5. **January 22nd** - TBD <!-- [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf) -->
 6. **January 24th** - TBD <!-- [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf) -->
 7. **January 29th** - TBD <!-- [Stochastic Asset Pricing](/lectures/stochastic_asset_pricing.pdf)-->
 8. **January 31st** - TBD <!-- [Stochastic Asset Pricing](/lectures/stochastic_asset_pricing.pdf)-->
-9. **February 5th** - TBD <!-- [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)-->
+9.  **February 5th** - TBD <!-- [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)-->
 10. **February 7th** - TBD <!-- [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf) -->
 11. **February 12th** - **Problem Set Review and MIDTERM REVIEW SESSION**
 12. **February 14th** - **MIDTERM EXAM IN CLASS**
