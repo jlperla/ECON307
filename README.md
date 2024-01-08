@@ -1,17 +1,11 @@
-# ECON307 Spring 2024
-- Not required, but consider getting a [GitHub ID](https://education.github.com/pack) and installing the [GitHub Desktop](https://desktop.github.com/).  After installation, at top of this page choose "Code" then "Open in Desktop".  Alternatively, [Git](https://git-scm.com/downloads) directly or [VS Code](https://docs.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=create-repo-command-palette%2Cinitialize-repo-activity-bar%2Ccreate-branch-command-palette%2Ccommit-changes-command-palette%2Cpush-command-palette)
-- Optionally, select `Watch` at the top of this repository to be alerted to all file changes
-
-## Syllabus
-See [here](syllabus.md) for more details
 
 ## Problem Sets and Exams
 
-1. **Due Midnight PST on January 14th** - [Problem Set 0](/problem_sets/problem_set_0.pdf). This is a pass/fail problem set (i.e., hand it in you pass!)
+1. **Due Midnight PST on January 21th** - [Problem Set 0](/problem_sets/problem_set_0.pdf). This is a pass/fail problem set (i.e., hand it in you pass!)
 2. **Due Midnight PST on TBD** - Problem Set 1 <!-- [Problem Set 1](/problem_sets/problem_set_1.pdf) -->
 3. **Due Midnight PST on TBD** - Problem Set 2 <!-- [Problem Set 2](/problem_sets/problem_set_2.pdf) -->
-4. **Reviewing February 12th** - Midterm Practice Problems  <!--[Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf) -->
-5. **February 14th** - MIDTERM EXAM IN CLASS
+4. **Reviewing February 26th** - Midterm Practice Problems  <!--[Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf) -->
+5. **February 28th** - MIDTERM EXAM IN CLASS
 6. **Due Midnight PST on TBD** - Problem Set 3 <!--  [Problem Set 3](/problem_sets/problem_set_3.pdf) -->
 7. **Due Midnight PST on TBD** -  Problem Set 4 <!-- [Problem Set 4](/problem_sets/problem_set_4.pdf) -->
 8. **Due Midnight PST on TBD** -  Problem Set 5 <!-- [Problem Set 5](/problem_sets/problem_set_5.pdf) -->
@@ -29,12 +23,12 @@ See [here](syllabus.md) for more details
 8. **January 31st** - TBD <!-- [Stochastic Asset Pricing](/lectures/stochastic_asset_pricing.pdf)-->
 9. **February 5th** - TBD <!-- [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)-->
 10. **February 7th** - TBD <!-- [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf) -->
-11. **February 12th** - **Problem Set Review and MIDTERM REVIEW SESSION**
-12. **February 14th** - **MIDTERM EXAM IN CLASS**
-13. **February 19th** - MIDTERM BREAK
-14. **February 21st** - MIDTERM BREAK
-15. **February 26th** - TBD <!-- [Stochastic Permanent Income Model](/lectures/stochastic_permanent_income.pdf) -->
-16. **February 28th** - TBD <!-- [Stochastic Permanent Income Model](/lectures/stochastic_permanent_income.pdf) -->
+11. **February 12th** - TBD <!-- [Stochastic Permanent Income Model](/lectures/stochastic_permanent_income.pdf) -->
+12. **February 14th** - TBD <!-- [Stochastic Permanent Income Model](/lectures/stochastic_permanent_income.pdf) -->
+13. **February 19th** - SPRING BREAK
+14. **February 21st** - SPRING BREAK
+15. **February 26th** - **Problem Set Review and MIDTERM REVIEW SESSION**
+16. **February 28th** - **MIDTERM EXAM IN CLASS**
 17. **March 4th** - TBD <!-- [Search](/lectures/search.pdf) -->
 18. **March 6th** - TBD <!-- [Search](/lectures/search.pdf) -->
 19. **March 11th** - TBD <!-- [General Equilibrium](/lectures/general_equilibrium.pdf) -->
