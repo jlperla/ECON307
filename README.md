@@ -1,12 +1,19 @@
 
+# ECON307 Spring 2024
+- Not required, but consider getting a [GitHub ID](https://education.github.com/pack) and installing the [GitHub Desktop](https://desktop.github.com/).  After installation, at top of this page choose "Code" then "Open in Desktop".  Alternatively, [Git](https://git-scm.com/downloads) directly or [VS Code](https://docs.microsoft.com/en-us/azure/developer/javascript/how-to/with-visual-studio-code/clone-github-repository?tabs=create-repo-command-palette%2Cinitialize-repo-activity-bar%2Ccreate-branch-command-palette%2Ccommit-changes-command-palette%2Cpush-command-palette)
+- Optionally, select `Watch` at the top of this repository to be alerted to all file changes
+
+## Syllabus
+See [here](syllabus.md) for more details
+
 ## Problem Sets and Exams
 
 1. **Due Midnight PST on January 21th** - [Problem Set 0](/problem_sets/problem_set_0.pdf). This is a pass/fail problem set (i.e., hand it in you pass!)
-2. **Due Midnight PST on TBD** - Problem Set 1 <!-- [Problem Set 1](/problem_sets/problem_set_1.pdf) -->
-3. **Due Midnight PST on TBD** - Problem Set 2 <!-- [Problem Set 2](/problem_sets/problem_set_2.pdf) -->
-4. **Reviewing February 26th** - Midterm Practice Problems  <!--[Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf) -->
-5. **February 28th** - MIDTERM EXAM IN CLASS
-6. **Due Midnight PST on TBD** - Problem Set 3 <!--  [Problem Set 3](/problem_sets/problem_set_3.pdf) -->
+2. **Due Midnight PST on January 23rd** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
+3. **Due Midnight PST on January 30th** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
+4. **Due Midnight PST on TBD** - Problem Set 3 <!--  [Problem Set 3](/problem_sets/problem_set_3.pdf) -->
+5. **Reviewing February 26th** - Midterm Practice Problems  <!--[Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf) -->
+6. **February 28th** - MIDTERM EXAM IN CLASS
 7. **Due Midnight PST on TBD** -  Problem Set 4 <!-- [Problem Set 4](/problem_sets/problem_set_4.pdf) -->
 8. **Due Midnight PST on TBD** -  Problem Set 5 <!-- [Problem Set 5](/problem_sets/problem_set_5.pdf) -->
 9. **Due Midnight PST on TBD** -  Problem Set 6 <!-- [Problem Set 6](/problem_sets/problem_set_6.pdf) -->
@@ -14,13 +21,13 @@
 
 ## Lectures
 1. **January 8th** - [Introduction to Modern Macro](/lectures/intro_to_modern_macro.pdf) and start [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf)
-2. **January 10th** - [Math Review](/lectures/math_review.pdf) including all necessary material on matrix algebra and probability
-3. **January 15th** - TBD <!-- Finish [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf) and start [Permanent Income Model](/lectures/permanent_income.pdf) -->
-4. **January 17th** - TBD <!-- [Permanent Income Model](/lectures/permanent_income.pdf) -->
-5. **January 22nd** - TBD <!-- [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf) -->
-6. **January 24th** - TBD <!-- [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf) -->
-7. **January 29th** - TBD <!-- [Stochastic Asset Pricing](/lectures/stochastic_asset_pricing.pdf)-->
-8. **January 31st** - TBD <!-- [Stochastic Asset Pricing](/lectures/stochastic_asset_pricing.pdf)-->
+2. **January 10th** - [Math Review](/lectures/math_review.pdf) including all necessary material on matrix algebra and [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf) 
+3. **January 15th** - Finish [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf) and [Math Review](/lectures/math_review.pdf) on optimization
+4. **January 17th** - [Permanent Income Model](/lectures/permanent_income.pdf)
+5. **January 22nd** -  [Permanent Income Model](/lectures/permanent_income.pdf)
+6. **January 24th** - Finish Math reiew + problem set review 
+7. **January 29th** - Finish [Permanent Income Model](/lectures/permanent_income.pdf) and move to [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf) <!-- [Stochastic Asset Pricing](/lectures/stochastic_asset_pricing.pdf)-->
+8. **January 31st** - TBD <!-- [Stochastic Asset Pricing](/lectures/stochastic_asset_pricing.pdf)--> <!-- [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf) -->
 9. **February 5th** - TBD <!-- [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)-->
 10. **February 7th** - TBD <!-- [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf) -->
 11. **February 12th** - TBD <!-- [Stochastic Permanent Income Model](/lectures/stochastic_permanent_income.pdf) -->
