@@ -10,7 +10,7 @@ See [here](syllabus.md) for more details
 
 1. **Due Midnight PST on January 21th** - [Problem Set 0](/problem_sets/problem_set_0.pdf). This is a pass/fail problem set (i.e., hand it in you pass!)
 2. **Due Midnight PST on January 23rd** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
-3. **Due Midnight PST on January 30th** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
+3. **Due Midnight PST on January 31st** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
 4. **Due Midnight PST on TBD** - Problem Set 3 <!--  [Problem Set 3](/problem_sets/problem_set_3.pdf) -->
 5. **Reviewing February 26th** - Midterm Practice Problems  <!--[Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf) -->
 6. **February 28th** - MIDTERM EXAM IN CLASS
