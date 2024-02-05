@@ -11,7 +11,7 @@ See [here](syllabus.md) for more details
 1. **Due Midnight PST on January 21th** - [Problem Set 0](/problem_sets/problem_set_0.pdf). This is a pass/fail problem set (i.e., hand it in you pass!)
 2. **Due Midnight PST on January 23rd** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
 3. **Due Midnight PST on January 31st** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
-4. **Due Midnight PST on TBD** - Problem Set 3 <!--  [Problem Set 3](/problem_sets/problem_set_3.pdf) -->
+4. **Due Midnight PST on February 14th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
 5. **Reviewing February 26th** - Midterm Practice Problems  <!--[Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf) -->
 6. **February 28th** - MIDTERM EXAM IN CLASS
 7. **Due Midnight PST on TBD** -  Problem Set 4 <!-- [Problem Set 4](/problem_sets/problem_set_4.pdf) -->
@@ -27,11 +27,11 @@ See [here](syllabus.md) for more details
 5. **January 22nd** -  [Permanent Income Model](/lectures/permanent_income.pdf)
 6. **January 24th** - Finish Math reiew + problem set review 
 7. **January 29th** - Finish [Permanent Income Model](/lectures/permanent_income.pdf) and move to [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf) <!-- [Stochastic Asset Pricing](/lectures/stochastic_asset_pricing.pdf)-->
-8. **January 31st** - TBD <!-- [Stochastic Asset Pricing](/lectures/stochastic_asset_pricing.pdf)--> <!-- [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf) -->
-9. **February 5th** - TBD <!-- [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)-->
-10. **February 7th** - TBD <!-- [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf) -->
-11. **February 12th** - TBD <!-- [Stochastic Permanent Income Model](/lectures/stochastic_permanent_income.pdf) -->
-12. **February 14th** - TBD <!-- [Stochastic Permanent Income Model](/lectures/stochastic_permanent_income.pdf) -->
+8. **January 31st** - [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
+9. **February 5th** - Finish  [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf) and  [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf)
+10. **February 7th** - [Stochastic Asset Pricing](/lectures/stochastic_asset_pricing.pdf), maybe start [Stochastic Permanent Income Model](/lectures/stochastic_permanent_income.pdf)
+11. **February 12th** - [Stochastic Permanent Income Model](/lectures/stochastic_permanent_income.pdf)
+12. **February 14th** - [Stochastic Permanent Income Model](/lectures/stochastic_permanent_income.pdf)
 13. **February 19th** - SPRING BREAK
 14. **February 21st** - SPRING BREAK
 15. **February 26th** - **Problem Set Review and MIDTERM REVIEW SESSION**
