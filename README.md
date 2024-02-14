@@ -12,11 +12,11 @@ See [here](syllabus.md) for more details
 2. **Due Midnight PST on January 23rd** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
 3. **Due Midnight PST on January 31st** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
 4. **Due Midnight PST on February 14th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
-7. **Due Midnight PST on February 25th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
-5. **Reviewing February 26th** - Midterm Practice Problems  <!--[Midterm Practice Problems](/problem_sets/midterm_practice_problems.pdf) -->
+5. **Due Midnight PST on February 25th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 6. **February 28th** - MIDTERM EXAM IN CLASS
-8. **Due Midnight PST on TBD** -  Problem Set 5 <!-- [Problem Set 5](/problem_sets/problem_set_5.pdf) -->
-9. **Due Midnight PST on TBD** -  Problem Set 6 <!-- [Problem Set 6](/problem_sets/problem_set_6.pdf) -->
+7. **Due Midnight PST on TBD** -  Problem Set 5 <!-- [Problem Set 5](/problem_sets/problem_set_5.pdf) -->
+8. **Due Midnight PST on TBD** -  Problem Set 6 <!-- [Problem Set 6](/problem_sets/problem_set_6.pdf) -->
+9. **Due Midnight PST on TBD** -  Problem Set 7 <!-- [Problem Set 6](/problem_sets/problem_set_7.pdf) -->
 10. **Reviewing TBD** - Final Practice Problems <!-- [Final Practice Problems](/problem_sets/final_practice_problems.pdf) -->
 
 ## Lectures
