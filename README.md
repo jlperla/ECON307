@@ -36,14 +36,14 @@ See [here](syllabus.md) for more details
 14. **February 21st** - SPRING BREAK
 15. **February 26th** - **Problem Set Review and MIDTERM REVIEW SESSION**
 16. **February 28th** - **MIDTERM EXAM IN CLASS**
-17. **March 4th** - TBD <!-- [Search](/lectures/search.pdf) -->
-18. **March 6th** - TBD <!-- [Search](/lectures/search.pdf) -->
-19. **March 11th** - TBD <!-- [General Equilibrium](/lectures/general_equilibrium.pdf) -->
+17. **March 4th** - [Search](/lectures/search.pdf) and potentially start [General Equilibrium](/lectures/general_equilibrium.pdf)
+18. **March 6th** - [General Equilibrium](/lectures/general_equilibrium.pdf)
+19. **March 11th** - [General Equilibrium](/lectures/general_equilibrium.pdf) and potentially start [Interest Rates](/lectures/interest_rates.pdf)
 20. **March 13th** - TBD <!-- [Interest Rates](/lectures/interest_rates.pdf) -->
 21. **March 18th** - TBD <!-- [Interest Rates](/lectures/interest_rates.pdf) -->
 22. **March 20th** - TBD <!-- [Stochastic Interest Rates](/lectures/stochastic_interest_rates.pdf) -->
 23. **March 25th** - TBD <!-- [Stochastic Interest Rates](/lectures/stochastic_interest_rates.pdf) -->
-24. **March 27th** - TBD <!-- PS Review  -->
+24. **March 27th** - Problem set review
 25. **April 1st** - STATUTORY HOLIDAY
 26. **April 3rd** - TBD <!-- [Growth](/lectures/growth.pdf) -->
 27. **April 8th** - TBD <!-- [Growth and Fiscal Policy](/lectures/growth_fiscal_policy.pdf) -->
