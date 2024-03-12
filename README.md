@@ -14,10 +14,9 @@ See [here](syllabus.md) for more details
 4. **Due Midnight PST on February 14th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
 5. **Due Midnight PST on February 25th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 6. **February 28th** - MIDTERM EXAM IN CLASS
-7. **Due Midnight PST on TBD** -  Problem Set 5 <!-- [Problem Set 5](/problem_sets/problem_set_5.pdf) -->
+7. **Due Midnight PST on March 26th** -  [Problem Set 5](/problem_sets/problem_set_5.pdf)
 8. **Due Midnight PST on TBD** -  Problem Set 6 <!-- [Problem Set 6](/problem_sets/problem_set_6.pdf) -->
-9. **Due Midnight PST on TBD** -  Problem Set 7 <!-- [Problem Set 6](/problem_sets/problem_set_7.pdf) -->
-10. **Reviewing TBD** - Final Practice Problems <!-- [Final Practice Problems](/problem_sets/final_practice_problems.pdf) -->
+9.  **Reviewing TBD** - Final Practice Problems <!-- [Final Practice Problems](/problem_sets/final_practice_problems.pdf) -->
 
 ## Lectures
 1. **January 8th** - [Introduction to Modern Macro](/lectures/intro_to_modern_macro.pdf) and start [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf)
@@ -37,10 +36,10 @@ See [here](syllabus.md) for more details
 15. **February 26th** - **Problem Set Review and MIDTERM REVIEW SESSION**
 16. **February 28th** - **MIDTERM EXAM IN CLASS**
 17. **March 4th** - [Search](/lectures/search.pdf) and potentially start [General Equilibrium](/lectures/general_equilibrium.pdf)
-18. **March 6th** - [General Equilibrium](/lectures/general_equilibrium.pdf)
-19. **March 11th** - [General Equilibrium](/lectures/general_equilibrium.pdf) and potentially start [Interest Rates](/lectures/interest_rates.pdf)
-20. **March 13th** - TBD <!-- [Interest Rates](/lectures/interest_rates.pdf) -->
-21. **March 18th** - TBD <!-- [Interest Rates](/lectures/interest_rates.pdf) -->
+18. **March 6th** - LAST MINUTE CANCELLATION
+19. **March 11th** - [General Equilibrium](/lectures/general_equilibrium.pdf)
+20. **March 13th** - Finish [General Equilibrium](/lectures/general_equilibrium.pdf) and start [Interest Rates](/lectures/interest_rates.pdf)
+21. **March 18th** - [Interest Rates](/lectures/interest_rates.pdf)
 22. **March 20th** - TBD <!-- [Stochastic Interest Rates](/lectures/stochastic_interest_rates.pdf) -->
 23. **March 25th** - TBD <!-- [Stochastic Interest Rates](/lectures/stochastic_interest_rates.pdf) -->
 24. **March 27th** - Problem set review
