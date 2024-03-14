@@ -5,6 +5,7 @@
 
 - **Instructor:** jesse.perla@ubc.ca
 - **Prerequisites:**  A score of 68\% or higher in ECON 305
+- **Credits:** 3
 - **Textbook:** None.  I will post my notes online (modifications of notes graciously provided by Thomas J. Sargent)
 - **TA and Office Hours:** Posted on Canvas
 
