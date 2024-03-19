@@ -25,7 +25,7 @@ See [here](syllabus.md) for more details
 4. **January 17th** - [Permanent Income Model](/lectures/permanent_income.pdf)
 5. **January 22nd** -  [Permanent Income Model](/lectures/permanent_income.pdf)
 6. **January 24th** - Finish Math reiew + problem set review 
-7. **January 29th** - Finish [Permanent Income Model](/lectures/permanent_income.pdf) and move to [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf) <!-- [Stochastic Asset Pricing](/lectures/stochastic_asset_pricing.pdf)-->
+7. **January 29th** - Finish [Permanent Income Model](/lectures/permanent_income.pdf) and move to [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
 8. **January 31st** - [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
 9. **February 5th** - Finish  [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf) and  [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf)
 10. **February 7th** - [Stochastic Asset Pricing](/lectures/stochastic_asset_pricing.pdf), maybe start [Stochastic Permanent Income Model](/lectures/stochastic_permanent_income.pdf)
@@ -40,10 +40,10 @@ See [here](syllabus.md) for more details
 19. **March 11th** - [General Equilibrium](/lectures/general_equilibrium.pdf)
 20. **March 13th** - Finish [General Equilibrium](/lectures/general_equilibrium.pdf) and start [Interest Rates](/lectures/interest_rates.pdf)
 21. **March 18th** - [Interest Rates](/lectures/interest_rates.pdf)
-22. **March 20th** - TBD <!-- [Stochastic Interest Rates](/lectures/stochastic_interest_rates.pdf) -->
-23. **March 25th** - TBD <!-- [Stochastic Interest Rates](/lectures/stochastic_interest_rates.pdf) -->
+22. **March 20th** -  [Stochastic Interest Rates](/lectures/stochastic_interest_rates.pdf)
+23. **March 25th** - [Stochastic Interest Rates](/lectures/stochastic_interest_rates.pdf) and start [Growth](/lectures/growth.pdf)
 24. **March 27th** - Problem set review
 25. **April 1st** - STATUTORY HOLIDAY
-26. **April 3rd** - TBD <!-- [Growth](/lectures/growth.pdf) -->
-27. **April 8th** - TBD <!-- [Growth and Fiscal Policy](/lectures/growth_fiscal_policy.pdf) -->
+26. **April 3rd** - [Growth](/lectures/growth.pdf)
+27. **April 8th** - [Growth and Fiscal Policy](/lectures/growth_fiscal_policy.pdf)
 28. **April 10th** - TBD <!-- [Growth and Fiscal Policy](/lectures/growth_fiscal_policy.pdf)  -->
