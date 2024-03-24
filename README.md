@@ -16,7 +16,7 @@ See [here](syllabus.md) for more details
 6. **February 28th** - MIDTERM EXAM IN CLASS
 7. **Due Midnight PST on March 26th** -  [Problem Set 5](/problem_sets/problem_set_5.pdf)
 8. **Due Midnight PST on April 9th** -  [Problem Set 6](/problem_sets/problem_set_6.pdf)
-9. **Reviewing TBD** - Final Practice Problems <!-- [Final Practice Problems](/problem_sets/final_practice_problems.pdf) -->
+9. **Reviewing TBD** -[Final Practice Problems](/problem_sets/final_practice_problems.pdf)
 
 ## Lectures
 1. **January 8th** - [Introduction to Modern Macro](/lectures/intro_to_modern_macro.pdf) and start [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf)
@@ -24,7 +24,7 @@ See [here](syllabus.md) for more details
 3. **January 15th** - Finish [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf) and [Math Review](/lectures/math_review.pdf) on optimization
 4. **January 17th** - [Permanent Income Model](/lectures/permanent_income.pdf)
 5. **January 22nd** -  [Permanent Income Model](/lectures/permanent_income.pdf)
-6. **January 24th** - Finish Math reiew + problem set review 
+6. **January 24th** - Finish Math review + problem set review 
 7. **January 29th** - Finish [Permanent Income Model](/lectures/permanent_income.pdf) and move to [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
 8. **January 31st** - [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
 9. **February 5th** - Finish  [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf) and  [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf)
@@ -46,4 +46,4 @@ See [here](syllabus.md) for more details
 25. **April 1st** - STATUTORY HOLIDAY
 26. **April 3rd** - [Growth](/lectures/growth.pdf) and [Growth and Fiscal Policy](/lectures/growth_fiscal_policy.pdf)
 27. **April 8th** - [Growth and Fiscal Policy](/lectures/growth_fiscal_policy.pdf)
-28. **April 10th** - Problem Set Review/Finish Growth and Fiscal Policy
+28. **April 10th** - Review for Final and of problem sets
