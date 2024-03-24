@@ -15,8 +15,8 @@ See [here](syllabus.md) for more details
 5. **Due Midnight PST on February 25th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 6. **February 28th** - MIDTERM EXAM IN CLASS
 7. **Due Midnight PST on March 26th** -  [Problem Set 5](/problem_sets/problem_set_5.pdf)
-8. **Due Midnight PST on TBD** -  Problem Set 6 <!-- [Problem Set 6](/problem_sets/problem_set_6.pdf) -->
-9.  **Reviewing TBD** - Final Practice Problems <!-- [Final Practice Problems](/problem_sets/final_practice_problems.pdf) -->
+8. **Due Midnight PST on April 9th** -  [Problem Set 6](/problem_sets/problem_set_6.pdf)
+9. **Reviewing TBD** - Final Practice Problems <!-- [Final Practice Problems](/problem_sets/final_practice_problems.pdf) -->
 
 ## Lectures
 1. **January 8th** - [Introduction to Modern Macro](/lectures/intro_to_modern_macro.pdf) and start [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf)
@@ -41,9 +41,9 @@ See [here](syllabus.md) for more details
 20. **March 13th** - Finish [General Equilibrium](/lectures/general_equilibrium.pdf) and start [Interest Rates](/lectures/interest_rates.pdf)
 21. **March 18th** - [Interest Rates](/lectures/interest_rates.pdf)
 22. **March 20th** -  [Stochastic Interest Rates](/lectures/stochastic_interest_rates.pdf)
-23. **March 25th** - [Stochastic Interest Rates](/lectures/stochastic_interest_rates.pdf) and start [Growth](/lectures/growth.pdf)
+23. **March 25th** - [Growth](/lectures/growth.pdf)
 24. **March 27th** - Problem set review
 25. **April 1st** - STATUTORY HOLIDAY
-26. **April 3rd** - [Growth](/lectures/growth.pdf)
+26. **April 3rd** - [Growth](/lectures/growth.pdf) and [Growth and Fiscal Policy](/lectures/growth_fiscal_policy.pdf)
 27. **April 8th** - [Growth and Fiscal Policy](/lectures/growth_fiscal_policy.pdf)
-28. **April 10th** - TBD <!-- [Growth and Fiscal Policy](/lectures/growth_fiscal_policy.pdf)  -->
+28. **April 10th** - Problem Set Review/Finish Growth and Fiscal Policy
