@@ -8,24 +8,24 @@ See [here](syllabus.md) for more details
 ## Problem Sets and Exams
 
 1. **Due Midnight PST on January 14** - [Problem Set 0](/problem_sets/problem_set_0.pdf). This is a pass/fail problem set (i.e., hand it in you pass!)
-2. **February 26** - MIDTERM EXAM IN CLASS
+2. **Due Midnight PST on January 21st** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
+3. **February 26** - MIDTERM EXAM IN CLASS
 <!--
-2. **Due Midnight PST on January 23rd** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
-3. **Due Midnight PST on January 31st** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
-4. **Due Midnight PST on February 14th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
-5. **Due Midnight PST on February 25th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
-7. **Due Midnight PST on March 26th** -  [Problem Set 5](/problem_sets/problem_set_5.pdf)
-8. **Due Midnight PST on April 9th** -  [Problem Set 6](/problem_sets/problem_set_6.pdf)
-9.  **Reviewing TBD** -[Final Practice Problems](/problem_sets/final_practice_problems.pdf)
+2. **Due Midnight PST on January 31st** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
+3. **Due Midnight PST on February 14th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
+4. **Due Midnight PST on February 25th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
+5. **Due Midnight PST on March 26th** -  [Problem Set 5](/problem_sets/problem_set_5.pdf)
+6. **Due Midnight PST on April 9th** -  [Problem Set 6](/problem_sets/problem_set_6.pdf)
+7.  **Reviewing TBD** -[Final Practice Problems](/problem_sets/final_practice_problems.pdf)
 -->
 
 ## Schedule
 1. **January 6** - [Introduction to Modern Macro](/lectures/intro_to_modern_macro.pdf) and start [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf)
 2. **January 8** - [Math Review](/lectures/math_review.pdf)
-3. **January 13** -  [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf)
-4. **January 15** -  [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf)
+3. **January 13** -  [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf) and started [Permanent Income Model](/lectures/permanent_income.pdf)
+4. **January 15** -  [Permanent Income Model](/lectures/permanent_income.pdf)
 5. **January 20** - [Permanent Income Model](/lectures/permanent_income.pdf)
-6. **January 22** - [Permanent Income Model](/lectures/permanent_income.pdf)
+6. **January 22** - 
 7. **January 27** - [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
 8. **January 29** - [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
 9. **February 3** - [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf)
