@@ -8,8 +8,9 @@ See [here](syllabus.md) for more details
 ## Problem Sets and Exams
 
 1. **Due Midnight PST on January 14** - [Problem Set 0](/problem_sets/problem_set_0.pdf). This is a pass/fail problem set (i.e., hand it in you pass!)
-2. **Due Midnight PST on January 21st** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
-3. **February 26** - MIDTERM EXAM IN CLASS
+2. **Due Midnight PST on January 21** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
+3. **Due Midnight PST on January 28** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
+4. **February 26** - MIDTERM EXAM IN CLASS
 <!--
 2. **Due Midnight PST on January 31st** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
 3. **Due Midnight PST on February 14th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
@@ -24,8 +25,8 @@ See [here](syllabus.md) for more details
 2. **January 8** - [Math Review](/lectures/math_review.pdf)
 3. **January 13** -  [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf) and started [Permanent Income Model](/lectures/permanent_income.pdf)
 4. **January 15** -  [Permanent Income Model](/lectures/permanent_income.pdf)
-5. **January 20** - [Permanent Income Model](/lectures/permanent_income.pdf)
-6. **January 22** - 
+5. **January 20** - [Permanent Income Model](/lectures/permanent_income.pdf) and started [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
+6. **January 22** - [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
 7. **January 27** - [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
 8. **January 29** - [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
 9. **February 3** - [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf)
