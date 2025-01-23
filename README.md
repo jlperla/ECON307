@@ -9,7 +9,7 @@ See [here](syllabus.md) for more details
 
 1. **Due Midnight PST on January 14** - [Problem Set 0](/problem_sets/problem_set_0.pdf). This is a pass/fail problem set (i.e., hand it in you pass!)
 2. **Due Midnight PST on January 21** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
-3. **Due Midnight PST on January 28** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
+3. **Due Midnight PST on Feb 2** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
 4. **February 26** - MIDTERM EXAM IN CLASS
 <!--
 2. **Due Midnight PST on January 31st** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
@@ -27,9 +27,9 @@ See [here](syllabus.md) for more details
 4. **January 15** -  [Permanent Income Model](/lectures/permanent_income.pdf)
 5. **January 20** - [Permanent Income Model](/lectures/permanent_income.pdf) and started [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
 6. **January 22** - [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
-7. **January 27** - [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
-8. **January 29** - [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
-9. **February 3** - [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf)
+7. **January 27** - Finish [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf) and [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf)
+8. **January 29** - [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf)
+9. **February 3** - Review Problem Sets
 10. **February 5** - [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf)
 11. **February 10** - [Stochastic Permanent Income Model](/lectures/stochastic_permanent_income.pdf)
 12. **February 12** - [Stochastic Permanent Income Model](/lectures/stochastic_permanent_income.pdf)
