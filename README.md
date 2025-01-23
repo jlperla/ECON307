@@ -10,14 +10,15 @@ See [here](syllabus.md) for more details
 1. **Due Midnight PST on January 14** - [Problem Set 0](/problem_sets/problem_set_0.pdf). This is a pass/fail problem set (i.e., hand it in you pass!)
 2. **Due Midnight PST on January 21** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
 3. **Due Midnight PST on Feb 2** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
-4. **February 26** - MIDTERM EXAM IN CLASS
+4. **Due Midnight PST on Feb 9** -[Problem Set 3](/problem_sets/problem_set_3.pdf)
+5. **February 26** - MIDTERM EXAM IN CLASS
 <!--
-2. **Due Midnight PST on January 31st** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
-3. **Due Midnight PST on February 14th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
-4. **Due Midnight PST on February 25th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
-5. **Due Midnight PST on March 26th** -  [Problem Set 5](/problem_sets/problem_set_5.pdf)
-6. **Due Midnight PST on April 9th** -  [Problem Set 6](/problem_sets/problem_set_6.pdf)
-7.  **Reviewing TBD** -[Final Practice Problems](/problem_sets/final_practice_problems.pdf)
+1. **Due Midnight PST on January 31st** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
+2. **Due Midnight PST on February 14th** - [Problem Set 3](/problem_sets/problem_set_3.pdf)
+3. **Due Midnight PST on February 25th** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
+4. **Due Midnight PST on March 26th** -  [Problem Set 5](/problem_sets/problem_set_5.pdf)
+5. **Due Midnight PST on April 9th** -  [Problem Set 6](/problem_sets/problem_set_6.pdf)
+6.  **Reviewing TBD** -[Final Practice Problems](/problem_sets/final_practice_problems.pdf)
 -->
 
 ## Schedule
