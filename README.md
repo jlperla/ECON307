@@ -27,10 +27,10 @@ See [here](syllabus.md) for more details
 5. **January 20** - [Permanent Income Model](/lectures/permanent_income.pdf) and started [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
 6. **January 22** - [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf)
 7. **January 27** - Finish [Incomplete Markets](/lectures/no_borrowing_dynamic_programming.pdf) and [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf)
-8. **January 29** - [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf) and start [Stochastic Asset Pricing](/lectures/stochastic_asset_pricing.pdf)
+8. **January 29** - [Markov Chains and Unemployment](/lectures/markov_chains_unemployment.pdf)
 9. **February 3** - Review Problem Sets
 10. **February 5** - [Stochastic Asset Pricing](/lectures/stochastic_asset_pricing.pdf)
-11. **February 10** - [Stochastic Permanent Income Model](/lectures/stochastic_permanent_income.pdf)
+11. **February 10** - Finish [Stochastic Asset Pricing](/lectures/stochastic_asset_pricing.pdf) and [Stochastic Permanent Income Model](/lectures/stochastic_permanent_income.pdf)
 12. **February 12** - [Stochastic Permanent Income Model](/lectures/stochastic_permanent_income.pdf)
 13. **February 17** - SPRING BREAK
 14. **February 19** - SPRING BREAK
