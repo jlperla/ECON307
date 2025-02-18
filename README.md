@@ -12,7 +12,7 @@ See [here](syllabus.md) for more details
 3. **Due Midnight PST February 2** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
 4. **Due Midnight PST February 9** -[Problem Set 3](/problem_sets/problem_set_3.pdf)
 5. **Due Midnight PST Feb 23** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
-6. **February 26** - MIDTERM EXAM IN CLASS
+6. **February 26** - MIDTERM EXAM IN CLASS.  The [formula sheet](problem_sets/formula_sheet.pdf) will be provided
 <!--
 4. **Due Midnight PST on March 26th** -  [Problem Set 5](/problem_sets/problem_set_5.pdf)
 5. **Due Midnight PST on April 9th** -  [Problem Set 6](/problem_sets/problem_set_6.pdf)
