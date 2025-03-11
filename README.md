@@ -11,13 +11,11 @@ See [here](syllabus.md) for more details
 2. **Due Midnight PST January 21** - [Problem Set 1](/problem_sets/problem_set_1.pdf)
 3. **Due Midnight PST February 2** -[Problem Set 2](/problem_sets/problem_set_2.pdf)
 4. **Due Midnight PST February 9** -[Problem Set 3](/problem_sets/problem_set_3.pdf)
-5. **Due Midnight PST Feb 23** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
+5. **Due Midnight PST February 23** - [Problem Set 4](/problem_sets/problem_set_4.pdf)
 6. **February 26** - MIDTERM EXAM IN CLASS.  The [formula sheet](problem_sets/formula_sheet.pdf) will be provided
-<!--
-4. **Due Midnight PST on March 26th** -  [Problem Set 5](/problem_sets/problem_set_5.pdf)
-5. **Due Midnight PST on April 9th** -  [Problem Set 6](/problem_sets/problem_set_6.pdf)
-6.  **Reviewing TBD** -[Final Practice Problems](/problem_sets/final_practice_problems.pdf)
--->
+7. **Due Midnight PST March 23** - [Problem Set 5](/problem_sets/problem_set_5.pdf)
+8. **Due Midnight PST April 1** - [Problem Set 6](/problem_sets/problem_set_6.pdf)
+9. **Reviewing TBD** -[Final Practice Problems](/problem_sets/final_practice_problems.pdf)
 
 ## Schedule
 1. **January 6** - [Introduction to Modern Macro](/lectures/intro_to_modern_macro.pdf) and start [Asset Pricing and Difference Equations](/lectures/asset_pricing_difference_equations.pdf)
@@ -38,12 +36,12 @@ See [here](syllabus.md) for more details
 16. **February 26** - Midterm
 17. **March 3** - [Search](/lectures/search.pdf)
 18. **March 5** - [Search](/lectures/search.pdf) and [General Equilibrium](/lectures/general_equilibrium.pdf)
-19. **March 10** - [General Equilibrium](/lectures/general_equilibrium.pdf)
-20. **March 12** - [Interest Rates](/lectures/interest_rates.pdf)
+19. **March 10** - [General Equilibrium](/lectures/general_equilibrium.pdf) and started [Interest Rates](/lectures/interest_rates.pdf)
+20. **March 12** - [Interest Rates](/lectures/interest_rates.pdf) and start  [Stochastic Interest Rates](/lectures/stochastic_interest_rates.pdf)
 21. **March 17** - [Stochastic Interest Rates](/lectures/stochastic_interest_rates.pdf)
 22. **March 19** - [Stochastic Interest Rates](/lectures/stochastic_interest_rates.pdf)
 23. **March 24** - [Growth](/lectures/growth.pdf)
 24. **March 26** - [Growth](/lectures/growth.pdf)
 25. **March 31** - [Growth and Fiscal Policy](/lectures/growth_fiscal_policy.pdf)
 26. **April 2** - PS Reviews
-27. **April 7** - Final Practice Review
+27. **April 7** - Finish [Growth and Fiscal Policy](/lectures/growth_fiscal_policy.pdf) as required, and discuss Final Practice Problems
